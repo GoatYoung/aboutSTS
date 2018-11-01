@@ -1,7 +1,15 @@
-用户：
+用户:
 ------------------
 USER = "LIYANG"
 USER = "LIANCHENLONG"
 USER = "ZHANGBOYU"
 USER = "ZHANGQIANG"
 ------------------
+
+Remote:1
+
+
+设备:
+-----------------
+MACH = 'LAPTOP-7HL8T9N1'
+-----------------
