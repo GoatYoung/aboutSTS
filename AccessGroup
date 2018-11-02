@@ -11,6 +11,7 @@ Remote:0
 
 设备:
 -----------------
+MACH = "YOUNG"
 MACH = "LAPTOP-7HL8T9N1"
 MACH = "LAPTOP-O9TSMDMN"
 MACH = "lexonen"
